@@ -65,3 +65,4 @@ for x in range(2):
 
 
 # dz (W ⋀ Z) ⋁ ¬Y ⋁ (¬X ≡ ¬W)
+

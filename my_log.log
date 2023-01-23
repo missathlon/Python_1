@@ -1,0 +1,138 @@
+23-01-2023 17:04:23 - main - INFO - <module> - Start program
+23-01-2023 17:09:11 - main - INFO - <module> - Start program
+23-01-2023 17:11:31 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 17:11:41 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 17:14:46 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 17:14:57 - user_interface - INFO - menu - Stop program
+23-01-2023 17:15:56 - main - INFO - <module> - Start program
+23-01-2023 17:18:31 - main - INFO - <module> - Start program
+23-01-2023 17:19:46 - main - INFO - <module> - Start program
+23-01-2023 17:21:06 - main - INFO - <module> - Start program
+23-01-2023 17:22:36 - main - INFO - <module> - Start program
+23-01-2023 17:30:13 - main - INFO - <module> - Start program
+23-01-2023 17:31:02 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 19:45:19 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 19:45:24 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 19:45:25 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 19:47:25 - main - INFO - <module> - Start program
+23-01-2023 22:28:20 - user_interface - INFO - menu - Stop program
+23-01-2023 22:30:07 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 22:31:23 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 22:32:03 - main - INFO - <module> - Start program
+23-01-2023 22:33:48 - main - INFO - <module> - Start program
+23-01-2023 22:34:19 - main - INFO - <module> - Start program
+23-01-2023 22:35:02 - main - INFO - <module> - Start program
+23-01-2023 22:39:30 - main - INFO - <module> - Start program
+23-01-2023 22:39:40 - mod_calc - INFO - sum - Start program
+23-01-2023 22:42:56 - user_interface - WARNING - menu - Main menu, wrong item selected.
+23-01-2023 22:43:10 - mod_calc - INFO - sum - Start program
+23-01-2023 22:48:48 - main - INFO - <module> - Start program
+23-01-2023 22:48:57 - mod_calc - INFO - sum - (3+4j) + (5+6j) = (8+10j)
+23-01-2023 23:02:58 - main - INFO - <module> - Start program
+23-01-2023 23:03:09 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 23:03:13 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 23:07:20 - main - INFO - <module> - Start program
+23-01-2023 23:07:32 - mod_calc - INFO - sqrt - sqrt: 25.0 = (1.0, 5)
+23-01-2023 23:08:56 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 23:09:03 - user_interface - WARNING - menu - Main menu, wrong item selected.
+23-01-2023 23:09:24 - mod_calc - INFO - sqrt - sqrt: 25.0 = (1.0, 5)
+23-01-2023 23:10:11 - user_interface - INFO - menu - Stop program
+23-01-2023 23:13:57 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+23-01-2023 23:14:27 - user_interface - INFO - menu - Stop program
+23-01-2023 23:16:44 - main - INFO - <module> - Start program
+23-01-2023 23:16:46 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:16:53 - excep - WARNING - check_num - Incorrect data entered: d
+23-01-2023 23:17:01 - mod_calc - INFO - sqrt - sqrt: 9.0 = (1.0, 5)
+23-01-2023 23:22:46 - main - INFO - <module> - Start program
+23-01-2023 23:24:01 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:26:38 - main - INFO - <module> - Start program
+23-01-2023 23:26:46 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:27:52 - main - INFO - <module> - Start program
+23-01-2023 23:27:54 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:27:58 - mod_calc - INFO - sqrt - sqrt: 9.0 = 3.0
+23-01-2023 23:29:17 - user_interface - INFO - menu_div - Division menu started
+23-01-2023 23:29:27 - mod_calc - INFO - exact - 5.0 // 2.0 = 2.0
+23-01-2023 23:29:38 - mod_calc - INFO - rem - 5.0 % 3.0 = 2.0
+23-01-2023 23:31:34 - main - INFO - <module> - Start program
+23-01-2023 23:31:36 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:31:39 - user_interface - INFO - menu_div - Division menu started
+23-01-2023 23:33:36 - main - INFO - <module> - Start program
+23-01-2023 23:33:39 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:33:46 - user_interface - INFO - menu_div - Division menu started
+23-01-2023 23:35:31 - main - INFO - <module> - Start program
+23-01-2023 23:35:34 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:35:35 - user_interface - INFO - menu_div - Division menu started
+23-01-2023 23:35:41 - excep - WARNING - check_num_div - Incorrect data entered
+23-01-2023 23:35:48 - mod_calc - INFO - div - 1.0 / 4.0 = 0.25
+23-01-2023 23:36:07 - excep - WARNING - check_num_div - Incorrect data entered
+23-01-2023 23:36:09 - excep - WARNING - check_num_div - Incorrect data entered
+23-01-2023 23:36:11 - excep - WARNING - check_num_div - Incorrect data entered
+23-01-2023 23:36:13 - excep - WARNING - check_num_div - Incorrect data entered
+23-01-2023 23:36:13 - excep - WARNING - check_num_div - Incorrect data entered
+23-01-2023 23:36:16 - mod_calc - INFO - rem - 4.0 % 2.0 = 0.0
+23-01-2023 23:40:34 - user_interface - INFO - menu_rational - Rational menu started
+23-01-2023 23:40:42 - mod_calc - INFO - sub - 1.0 - 2.0 = -1.0
+23-01-2023 23:41:10 - mod_calc - INFO - mult - 2.0 * 3.0 = 6.0
+23-01-2023 23:41:21 - mod_calc - INFO - pow - 3.0 ^ 3.0 = 27.0
+24-01-2023 00:50:02 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+24-01-2023 00:50:13 - user_interface - WARNING - menu_rational - Operation menu, wrong item selected.
+24-01-2023 00:50:21 - mod_calc - INFO - sqrt - sqrt: 9.0 = 3.0
+24-01-2023 00:51:01 - main - INFO - <module> - Start program
+24-01-2023 00:51:05 - user_interface - INFO - menu_rational - Rational menu started
+24-01-2023 00:51:17 - mod_calc - INFO - sqrt - sqrt: 9.0 = 3.0, -3.0
+24-01-2023 00:51:58 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 00:52:06 - mod_calc - INFO - sub - (1+2j) - (3+4j) = (-2-2j)
+24-01-2023 00:52:32 - mod_calc - INFO - mult - (1+2j) * (3+4j) = (-5+10j)
+24-01-2023 00:53:48 - main - INFO - <module> - Start program
+24-01-2023 00:53:52 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 00:54:08 - mod_calc - INFO - sub - (2+3j) - (3+4j) = (-1-1j)
+24-01-2023 00:57:02 - main - INFO - <module> - Start program
+24-01-2023 00:57:04 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 00:57:10 - mod_calc - WARNING - do_complex_div - Incorrect data entered: 0.0 == 0.0 == 0
+24-01-2023 01:00:24 - main - INFO - <module> - Start program
+24-01-2023 01:00:26 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 01:00:39 - mod_calc - WARNING - do_complex_div - Incorrect data entered: 0.0 == 0.0 == 0
+24-01-2023 01:06:39 - main - INFO - <module> - Start program
+24-01-2023 01:06:44 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 01:06:51 - mod_calc - WARNING - do_complex_div - Incorrect data entered: 0.0 == 0.0 == 0
+24-01-2023 01:06:53 - mod_calc - INFO - div - (3+4j) / (2+3j) = (1.3846153846153848-0.07692307692307697j)
+24-01-2023 01:07:18 - mod_calc - INFO - pow - (2+2j) ^ (2+2j) = (-1.4525046270557027-0.8098895463353005j)
+24-01-2023 01:08:02 - mod_calc - INFO - sqrt - sqrt: (1+1j) = (1.0986841134678098+0.45508986056222733j), (-1.0986841134678098-0.45508986056222733j)
+24-01-2023 01:23:52 - user_interface - INFO - menu - Stop program
+24-01-2023 01:23:54 - user_interface - WARNING - menu_complex - Operation menu, wrong item selected.
+24-01-2023 01:24:02 - user_interface - WARNING - menu_complex - Operation menu, wrong item selected.
+24-01-2023 01:24:57 - user_interface - INFO - menu - Stop program
+24-01-2023 01:25:17 - user_interface - INFO - menu - Stop program
+24-01-2023 01:35:34 - user_interface - WARNING - menu_complex - Operation menu, wrong item selected.
+24-01-2023 01:35:47 - mod_calc - INFO - sum - (3+3j) + (3+3j) = (6+6j)
+24-01-2023 01:35:55 - user_interface - INFO - menu_rational - Rational menu started
+24-01-2023 01:36:02 - excep - WARNING - check_num - Incorrect data entered: -1
+24-01-2023 01:36:52 - main - INFO - <module> - Start program
+24-01-2023 01:36:55 - user_interface - INFO - menu_rational - Rational menu started
+24-01-2023 01:42:07 - main - INFO - <module> - Start program
+24-01-2023 01:42:11 - user_interface - INFO - menu_rational - Rational menu started
+24-01-2023 01:42:23 - mod_calc - INFO - sum - -1.0 + -2.0 = -3.0
+24-01-2023 01:48:53 - mod_calc - INFO - mult - -2.0 * 6.0 = -12.0
+24-01-2023 01:49:02 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 01:49:11 - mod_calc - INFO - div - (3+3j) / (3+3j) = (1+0j)
+24-01-2023 01:49:23 - mod_calc - INFO - div - (4+4j) / (4-4j) = 1j
+24-01-2023 01:51:19 - main - INFO - <module> - Start program
+24-01-2023 01:51:27 - user_interface - INFO - menu_complex - Complex menu started
+24-01-2023 01:51:36 - mod_calc - WARNING - do_complex_div - Incorrect data entered: 2.0 == -2.0 == 0
+24-01-2023 01:51:40 - mod_calc - INFO - div - (2+2j) / (2+2j) = (1+0j)
+24-01-2023 01:51:49 - user_interface - INFO - menu_rational - Rational menu started
+24-01-2023 01:53:11 - main - INFO - <module> - Start program
+24-01-2023 01:53:13 - user_interface - INFO - menu_rational - Rational menu started
+24-01-2023 01:53:18 - excep - WARNING - check_num_sqrt - Incorrect data entered: -4
+24-01-2023 01:55:38 - mod_calc - INFO - sqrt - sqrt: 4.0 = 2.0, -2.0
+24-01-2023 01:56:09 - user_interface - INFO - menu - Stop program
+24-01-2023 01:56:43 - excep - WARNING - check_num - Incorrect data entered: f
+24-01-2023 01:56:45 - excep - WARNING - check_num - Incorrect data entered: f
+24-01-2023 01:56:47 - mod_calc - INFO - sum - 2.0 + 2.0 = 4.0
+24-01-2023 01:58:08 - user_interface - WARNING - menu - Main menu, wrong item selected.
+24-01-2023 01:58:09 - user_interface - WARNING - menu - Main menu, wrong item selected.
+24-01-2023 01:58:16 - user_interface - WARNING - menu - Main menu, wrong item selected.
+24-01-2023 01:58:20 - user_interface - WARNING - menu - Main menu, wrong item selected.
+24-01-2023 01:58:21 - user_interface - WARNING - menu - Main menu, wrong item selected.
+24-01-2023 02:00:09 - user_interface - WARNING - menu - Main menu, wrong item selected.
+24-01-2023 02:00:10 - user_interface - WARNING - menu - Main menu, wrong item selected.

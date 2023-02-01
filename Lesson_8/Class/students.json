@@ -1,0 +1,98 @@
+{
+    "1": {
+        "id": "1",
+        "name": "  Мария",
+        "surname": "  Иванова",
+        "faculty": "  Экономика",
+        "form of education": "  дневная",
+        "course": "  1"
+    },
+    "2": {
+        "id": "2",
+        "name": "  Александр",
+        "surname": "  Сидоров",
+        "faculty": "  Физика",
+        "form of education": "  дневная",
+        "course": "  2"
+    },
+    "3": {
+        "id": "3",
+        "name": "  Ирина",
+        "surname": "  Красавцева",
+        "faculty": "  Психология",
+        "form of education": "  заочная",
+        "course": "  3"
+    },
+    "4": {
+        "id": "4",
+        "name": "  Виктор",
+        "surname": "  Карпов",
+        "faculty": "  Физика",
+        "form of education": "  заочная",
+        "course": "  4"
+    },
+    "5": {
+        "id": "5",
+        "name": "  Екатерина",
+        "surname": "Малашевич",
+        "faculty": "Экономика",
+        "form of education": "дневная",
+        "course": "1"
+    },
+    "6": {
+        "id": "6",
+        "name": "  Иван",
+        "surname": "  Станкевич",
+        "faculty": "  Психология",
+        "form of education": "  дневная",
+        "course": "  2"
+    },
+    "8": {
+        "id": "8",
+        "name": "  Светлана",
+        "surname": "  Петрова",
+        "faculty": "  Физика",
+        "form of education": "  дневная",
+        "course": "  4"
+    },
+    "9": {
+        "id": "9",
+        "name": "  Алексей",
+        "surname": "  Ходасевич",
+        "faculty": "  Физика",
+        "form of education": "  заочная",
+        "course": "  1"
+    },
+    "10": {
+        "id": "10",
+        "name": "  Анна",
+        "surname": "  Азаркевич",
+        "faculty": "  Психология",
+        "form of education": "  заочная",
+        "course": "  2"
+    },
+    "11": {
+        "id": "11",
+        "name": "Nname",
+        "surname": "  dd",
+        "faculty": "  dd",
+        "form of education": "den",
+        "course": "  2"
+    },
+    "12": {
+        "id": "12",
+        "name": "  gg",
+        "surname": "  gg",
+        "faculty": "  gg",
+        "form of education": "  g",
+        "course": "  1"
+    },
+    "13": {
+        "id": "13",
+        "name": " dd",
+        "surname": " dd",
+        "faculty": " dd",
+        "form of education": " dd",
+        "course": " 3"
+    }
+}

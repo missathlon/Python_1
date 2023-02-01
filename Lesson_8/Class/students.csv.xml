@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<root>
+	<n1>
+		<id>1</id>
+		<name>  Мария</name>
+		<surname>  Иванова</surname>
+		<faculty>  Экономика</faculty>
+		<form_of_education>  дневная</form_of_education>
+		<course>  1</course>
+	</n1>
+	<n2>
+		<id>2</id>
+		<name>  Александр</name>
+		<surname>  Сидоров</surname>
+		<faculty>  Физика</faculty>
+		<form_of_education>  дневная</form_of_education>
+		<course>  2</course>
+	</n2>
+	<n3>
+		<id>3</id>
+		<name>  Ирина</name>
+		<surname>  Красавцева</surname>
+		<faculty>  Психология</faculty>
+		<form_of_education>  заочная</form_of_education>
+		<course>  3</course>
+	</n3>
+	<n4>
+		<id>4</id>
+		<name>  Виктор</name>
+		<surname>  Карпов</surname>
+		<faculty>  Физика</faculty>
+		<form_of_education>  заочная</form_of_education>
+		<course>  4</course>
+	</n4>
+	<n5>
+		<id>5</id>
+		<name>  Екатерина</name>
+		<surname>Малашевич</surname>
+		<faculty>Экономика</faculty>
+		<form_of_education>дневная</form_of_education>
+		<course>1</course>
+	</n5>
+	<n6>
+		<id>6</id>
+		<name>  Иван</name>
+		<surname>  Станкевич</surname>
+		<faculty>  Психология</faculty>
+		<form_of_education>  дневная</form_of_education>
+		<course>  2</course>
+	</n6>
+	<n8>
+		<id>8</id>
+		<name>  Светлана</name>
+		<surname>  Петрова</surname>
+		<faculty>  Физика</faculty>
+		<form_of_education>  дневная</form_of_education>
+		<course>  4</course>
+	</n8>
+	<n9>
+		<id>9</id>
+		<name>  Алексей</name>
+		<surname>  Ходасевич</surname>
+		<faculty>  Физика</faculty>
+		<form_of_education>  заочная</form_of_education>
+		<course>  1</course>
+	</n9>
+	<n10>
+		<id>10</id>
+		<name>  Анна</name>
+		<surname>  Азаркевич</surname>
+		<faculty>  Психология</faculty>
+		<form_of_education>  заочная</form_of_education>
+		<course>  2</course>
+	</n10>
+	<n11>
+		<id>11</id>
+		<name>Nname</name>
+		<surname>  dd</surname>
+		<faculty>  dd</faculty>
+		<form_of_education>den</form_of_education>
+		<course>  2</course>
+	</n11>
+	<n12>
+		<id>12</id>
+		<name>  gg</name>
+		<surname>  gg</surname>
+		<faculty>  gg</faculty>
+		<form_of_education>  g</form_of_education>
+		<course>  1</course>
+	</n12>
+	<n13>
+		<id>13</id>
+		<name> dd</name>
+		<surname> dd</surname>
+		<faculty> dd</faculty>
+		<form_of_education> dd</form_of_education>
+		<course> 3</course>
+	</n13>
+</root>

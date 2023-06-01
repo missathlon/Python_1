@@ -136,3 +136,8 @@
 24-01-2023 01:58:21 - user_interface - WARNING - menu - Main menu, wrong item selected.
 24-01-2023 02:00:09 - user_interface - WARNING - menu - Main menu, wrong item selected.
 24-01-2023 02:00:10 - user_interface - WARNING - menu - Main menu, wrong item selected.
+01-02-2023 13:16:41 - controller - INFO - read_all - Show all. Database File - telephone_book.csv
+01-02-2023 13:16:41 - controller - WARNING - read_all - The file is not found
+01-02-2023 13:41:39 - main - INFO - <module> - Start program
+01-02-2023 13:41:51 - user_interface - WARNING - menu - Main menu, wrong item selected.
+01-02-2023 13:42:01 - user_interface - INFO - menu - Stop program

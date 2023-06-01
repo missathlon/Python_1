@@ -2,8 +2,8 @@ import menuTemplates as m
 
 
 def menu_console():
-    m.printNenuTitle("Главное меню\n           ЖУРНАЛ ЗАМЕТОК")
-    print("1 - вывод журнала \n2 - вывод заметки по id \n3 - выбор заметки по дате\n4 - редактирование заметки"
-          " \n5 - добавление заметки\n6 - удаление заметки\n7 - выход")
+    m.printNenuTitle("Main menu\n           NOTES JOURNAL")
+    print("1 - journal output \n2 - search for a note by id \n3 - search for a note by date\n4 - edit note"
+          " \n5 - add note\n6 - delete note\n7 - exit")
     m.printMenuLine()
-    print("\n введите пункт из меню ")
+    print("\n select an item from the menu ")
